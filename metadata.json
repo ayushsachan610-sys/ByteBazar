@@ -1,0 +1,6 @@
+{
+  "name": "ByteBazar",
+  "description": "A sleek, immersive, and interactive full-stack tech marketplace featuring high-quality gadget images, dynamic audio feedback, advanced search filtering, and an integrated server-side Gemini shopping assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
